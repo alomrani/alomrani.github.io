@@ -1,7 +1,8 @@
 ---
 title: "Deep Policies for Online Bipartite Matching: A Reinforcement Learning Approach"
 collection: publications
-Journal: "arxiv"
+venue: 'arxiv'
+paperurl: 'https://arxiv.org/abs/2109.10380'
 permalink: /publication/deep-online-policies
 excerpt: 'Under Review'
 date: 2021-09-21
