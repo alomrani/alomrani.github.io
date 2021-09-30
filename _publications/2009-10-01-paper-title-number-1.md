@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Deep Policies for Online Bipartite Matching: A Reinforcement Learning Approach"
+collection: arxiv
+permalink: /publication/deep-online-policies
+excerpt: 'Under Review'
+date: 2021-09-21
+paperurl: 'Deep Policies for Online Bipartite Matching: A Reinforcement Learning Approach'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+From assigning computing tasks to servers and advertisements to users, sequential online matching problems arise in a wide variety of domains. The challenge in online matching lies in making irrevocable assignments while there is uncertainty about future inputs. In the theoretical computer science literature, most policies are myopic or greedy in nature. In real-world applications where the matching process is repeated on a regular basis, the underlying data distribution can be leveraged for better decision-making. We present an end-to-end Reinforcement Learning framework for deriving better matching policies based on trial-and-error on historical data. We devise a set of neural network architectures, design feature representations, and empirically evaluate them across two online matching problems: Edge-Weighted Online Bipartite Matching and Online Submodular Bipartite Matching. We show that most of the learning approaches perform significantly better than classical greedy algorithms on four synthetic and real-world datasets. Our code is publicly available [here](https://github.com/lyeskhalil/CORL.git)
