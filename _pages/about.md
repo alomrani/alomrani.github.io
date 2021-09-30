@@ -17,4 +17,4 @@ My research interests lie broadly in machine learning, reinforcement learning, a
   - Honours Bachelor of Science, Computer Science, 2016 - 2020, University of Toronto.
   - Masters of Engineering, 2020 - Present, University of Toronto.
 
-Feel free to reach out!
+My CV can be found [here](https://alomrani.github.io/files/CV.pdf). Feel free to reach out!
