@@ -4,7 +4,7 @@ collection: publications
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/2109.10380'
 permalink: /publication/deep-online-policies
-excerpt: 'Under Review'
+excerpt: 'Under Review. Joint Work with Reza Moravej and Elias B. Khalil'
 date: 2021-09-21
 ---
 
