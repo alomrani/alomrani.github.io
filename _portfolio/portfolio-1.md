@@ -1,6 +1,6 @@
 ---
 title: "Detecting State of Charge False Reporting Attacks Via Reinforcement Learning Approach"
-excerpt: "MEng Project under the supervision of Dr. Mosaddek Tushar and Dr. Deepa Kundur"
+excerpt: "**MEng Project** under the supervision of Dr. Mosaddek Tushar and Dr. Deepa Kundur"
 collection: portfolio
 ---
 
